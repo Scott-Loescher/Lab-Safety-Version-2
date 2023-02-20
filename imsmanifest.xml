@@ -1,0 +1,151 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_6EimxMsVk7D" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">Lab Safety Version 2</langstring>
+        </title>
+        <description>
+          <langstring xml:lang="x-none">A fully functional and designed lab safety module. Missing instructions slides.</langstring>
+        </description>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="Lab_Safety_Version_2_ORG">
+    <organization identifier="Lab_Safety_Version_2_ORG">
+      <title>Lab Safety Version 2</title>
+      <item identifier="Fire_Extinguisher_Quicktime_(Prototype)_SCO" isvisible="true" identifierref="__6EimxMsVk7D_RES">
+        <title>Lab Safety Version 2</title>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__6EimxMsVk7D_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="story_content/6TW2cAAuadS.js" />
+      <file href="mobile/6j8tzi54rge_M_156_156.png" />
+      <file href="mobile/657BAL3MYt8_X_M_1670_1670.png" />
+      <file href="mobile/5mGgNtQ98Bj_M_1670_1670.png" />
+      <file href="story_content/6Fqcdkjaa7N_full.jpg" />
+      <file href="story_content/6Fqcdkjaa7N_half.jpg" />
+      <file href="story_content/6Fqcdkjaa7N.js" />
+      <file href="mobile/5k33NPh0ofG_M_1670_1670.png" />
+      <file href="mobile/5lG8fohFYl2.png" />
+      <file href="mobile/5rfs2j746ty_M_1934_1934.png" />
+      <file href="mobile/6TTDUwoFJN8_X_M_1670_1670.png" />
+      <file href="mobile/5rJ2aZBDM1e_M_1938_1938.png" />
+      <file href="mobile/5mGgNtQ98Bj_X_M_1670_1670.png" />
+      <file href="mobile/6e1zUcOMotB_M_1670_1670.png" />
+      <file href="mobile/6NQtPyoktgb_M_1670_1670.png" />
+      <file href="mobile/5fhX4oPFOse_X_M_1670_1670.png" />
+      <file href="mobile/61M1GMJUdJj_M_1670_1670.png" />
+      <file href="meta.xml" />
+      <file href="story_content/user.js" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5c4s2EmXZfq.js" />
+      <file href="html5/data/js/5fPUwQMlQqF.js" />
+      <file href="html5/data/js/5lA9ILokjrc.js" />
+      <file href="html5/data/js/5mUQqF4JCkK.js" />
+      <file href="html5/data/js/5nY9l5wUzcV.js" />
+      <file href="html5/data/js/5ouHFwHvEGN.js" />
+      <file href="html5/data/js/5pOS3hJA68k.js" />
+      <file href="html5/data/js/5rrwbvouxkD.js" />
+      <file href="html5/data/js/5sTTobBBVkP.js" />
+      <file href="html5/data/js/5syEfkoyLCc.js" />
+      <file href="html5/data/js/5t83GqeToeY.js" />
+      <file href="html5/data/js/5vxag76x63g.js" />
+      <file href="html5/data/js/5vzRrcogH4o.js" />
+      <file href="html5/data/js/5wEhJK5KffC.js" />
+      <file href="html5/data/js/5wrqDfQmo6B.js" />
+      <file href="html5/data/js/60D2RTiSoLm.js" />
+      <file href="html5/data/js/63OqD70JVHu.js" />
+      <file href="html5/data/js/678AJTQ3BTB.js" />
+      <file href="html5/data/js/6A7N1AlM3po.js" />
+      <file href="html5/data/js/6ACENZ9LvCL.js" />
+      <file href="html5/data/js/6cQkgJwtWM7.js" />
+      <file href="html5/data/js/6e7T1jxS2YC.js" />
+      <file href="html5/data/js/6f7bfT2iK1u.js" />
+      <file href="html5/data/js/6FbZ1nQjKim.js" />
+      <file href="html5/data/js/6gJ26wniBKE.js" />
+      <file href="html5/data/js/6GRbvxVS0pC.js" />
+      <file href="html5/data/js/6GthrbRjFV9.js" />
+      <file href="html5/data/js/6hAR3I0GcdX.js" />
+      <file href="html5/data/js/6HdA5eZ9GvF.js" />
+      <file href="html5/data/js/6J46msQ6p7T.js" />
+      <file href="html5/data/js/6jEW2ck5V02.js" />
+      <file href="html5/data/js/6jgiKab7nAh.js" />
+      <file href="html5/data/js/6JS9nBVhT93.js" />
+      <file href="html5/data/js/6KdlE2Qnipk.js" />
+      <file href="html5/data/js/6LydRQEw7fv.js" />
+      <file href="html5/data/js/6SsAMLkki9U.js" />
+      <file href="html5/data/js/6WLHPvB1p1l.js" />
+      <file href="html5/data/js/6XvUtMbehKM.js" />
+      <file href="html5/data/js/6Y7anxcf4a1.js" />
+      <file href="html5/data/js/6Z9zlU6GEXn.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/hls/hls.min.js" />
+      <file href="html5/lib/scripts/bootstrapper.min.js" />
+      <file href="html5/lib/scripts/frame.desktop.min.js" />
+      <file href="html5/lib/scripts/frame.mobile.min.js" />
+      <file href="html5/lib/scripts/slides.min.js" />
+      <file href="html5/lib/scripts/three.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>
